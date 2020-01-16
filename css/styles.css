@@ -1,3 +1,14 @@
-#superman, #desert-storm, #fun-times {
+/* #superman, #desert-storm, #fun-times {
     display: none;
-  }
+  } */
+
+.highlight {
+    background-color: yellow;
+    color: black;
+    font-weight: 300;
+}
+.highlight-red {
+    background-color: red;
+    color: black;
+    font-weight: 300;
+}
